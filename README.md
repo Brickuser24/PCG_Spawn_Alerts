@@ -3,9 +3,9 @@ Email Alerts for PCG Spawns
 
 To use this, you'll have to upload main.py and Last_Spawn.txt and run them on a server of your choice
 
-Make sure main.py and Last_Spawn.txt are in the same location on the server
-
 I use pylex nodes for this
+
+Make sure main.py and Last_Spawn.txt are in the same location on the server
 
 You will have to enter your email and the app password for your email in the fields in main.py
 
