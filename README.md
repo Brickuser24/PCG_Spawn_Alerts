@@ -1,6 +1,8 @@
 # PCG_Spawn_Alerts
 Email Alerts for PCG Spawns
 
+Replit Link: https://replit.com/@brickuser24/PCG-Spawn-Alerts
+
 To use this, you'll have to upload main.py and Last_Spawn.txt and run them on a server of your choice
 
 I use pylex nodes for this
